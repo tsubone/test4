@@ -1,0 +1,5 @@
+digraph g {
+	"日本" -> "近畿地方" -> "大阪";
+	"aho" -> "baka" [label=baka];
+	"aho" -> "baka";
+}
